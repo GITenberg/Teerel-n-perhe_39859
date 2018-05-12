@@ -20,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Santeri_Alkio
     - http://fi.wikipedia.org/wiki/Santeri_Alkio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39859#Teerel-n-perhe
 gutenberg_issued: '2012-05-30'
 gutenberg_type: Text
 identifiers:

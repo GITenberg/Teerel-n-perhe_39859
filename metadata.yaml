@@ -1,0 +1,35 @@
+_repo: Teerel-n-perhe_39859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alkio, Santeri
+    aliases:
+    - Heikkilainen, Iiska
+    - Filander, Aleksander
+    - Filander, Santeri
+    - Paukkunen, Jussi
+    - Heikkiläinen, Iiska
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '5319'
+    url: http://www.gutenberg.org/2009/agents/5319
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Santeri_Alkio
+    - http://fi.wikipedia.org/wiki/Santeri_Alkio
+description: ''
+gutenberg_issued: '2012-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39859'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Teerelän perhe
+url: http://www.gutenberg.org/ebooks/39859
